@@ -13,7 +13,7 @@ I’m **Marco Garcia**, a **Data Engineer** with 3+ years of experience in softw
 
 ### **Data Engineering**  
 - **Processing**: Apache Spark, Apache Kafka, ETL/ELT Processes, AWS Glue, Apache Airflow , Iceberg, Snowflake, Trino
-- **Databases**: PostgreSQL, MySQL, MongoDB, Redshift, DynamoDB, Neo4J  
+- **Databases**: PostgreSQL, MySQL, MongoDB, DynamoDB, Neo4J  
 - **Cloud Platforms**: AWS, GCP
 - **Data Warehousing**: Snowflake, Big Query, Amazon Redshift
 - **Orquestration**: dbt
